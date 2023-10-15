@@ -31,5 +31,3 @@ import {
 } from 'react-router-dom'
 
 ```
-
-[在线查看](http://pmp.xulayen.com/)
