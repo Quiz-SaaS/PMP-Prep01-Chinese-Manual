@@ -31,3 +31,5 @@ import {
 } from 'react-router-dom'
 
 ```
+
+Contents are: src\components\content\
